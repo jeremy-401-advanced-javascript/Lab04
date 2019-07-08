@@ -4,7 +4,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab04/pull/2)
-* [travis](http://xyz.com)
+* [travis]([![Build Status](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab04.svg?branch=master)](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab04))
   
 #### Tests
 * How do you run tests?
