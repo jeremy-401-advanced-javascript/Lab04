@@ -1,0 +1,28 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "## Project Name",
+  "main": "players-schema.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test-watch": "jest --watchAll --verbose"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "Jeremy Lee",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "uuid": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-401-advanced-javascript/Lab04.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremy-401-advanced-javascript/Lab04/issues"
+  },
+  "homepage": "https://github.com/jeremy-401-advanced-javascript/Lab04#readme"
+}
