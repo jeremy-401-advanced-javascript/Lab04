@@ -3,7 +3,7 @@
 ### Author: Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab04/pull/2)
 * [travis](http://xyz.com)
   
 #### Tests
